@@ -1,0 +1,27 @@
+_repo: The-Voice-of-the-Pack_33877
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marshall, Edison
+    birthdate: 1894
+    deathdate: 1967
+    gutenberg_agent_id: '3967'
+    url: http://www.gutenberg.org/2009/agents/3967
+    wikipedia: http://en.wikipedia.org/wiki/Edison_Marshall
+description: ''
+gutenberg_issued: '2010-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33877'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oregon -- Fiction'
+- !lcc 'PS'
+title: The Voice of the Pack
+url: http://www.gutenberg.org/ebooks/33877
